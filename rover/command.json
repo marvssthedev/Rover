@@ -1,0 +1,6 @@
+{
+    "1": {"command": "new-rover", "postion": {"x": "3", "y": "3"}},
+    "2": {"rover-id": "1AFC", "command": "move-foward"},
+    "3": {"rover-id": "1AFC", "command": "turn-left"},
+    "4": {"rover-id": "1AFC", "command": "move-foward"}
+}
